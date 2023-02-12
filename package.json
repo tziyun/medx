@@ -1,0 +1,18 @@
+{
+  "name": "medx",
+  "version": "1.0.0",
+  "main": "database.js",
+  "scripts": {
+    "test": "node interaction"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "better-sqlite3": "^8.1.0",
+    "cron": "^2.2.0",
+    "supermemo": "^2.0.17",
+    "typescript": "^4.9.5",
+    "ws": "^8.12.0"
+  }
+}
