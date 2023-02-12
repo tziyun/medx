@@ -1,4 +1,6 @@
-https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications#receiving_messages_from_the_server
+https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+https://www.w3schools.com/js/
 https://ably.com/blog/web-app-websockets-nodejs
 https://www.npmjs.com/package/supermemo
 https://github.com/kelektiv/node-cron
